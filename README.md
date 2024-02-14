@@ -1,1 +1,1 @@
-# Chess
+# Multiplayer Chess
